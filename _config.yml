@@ -1,0 +1,6 @@
+plugins:
+  - jekyll-redirect-from
+
+# Cấu hình cơ bản cho GitHub Pages
+title: VietmediaF Repository
+description: Repository cho các addon VietmediaF
